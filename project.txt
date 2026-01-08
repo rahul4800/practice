@@ -1,2 +1,3 @@
 Hello I'm Rahul 
 welcome to git
+iam pursing data science
